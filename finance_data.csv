@@ -1,0 +1,15 @@
+date,amount,category,description
+10-04-2025,142.5,Income,Salary
+10-04-2025,200.0,Income,Side Gig
+11-04-2025,25.0,Expense,Lunch at cafe
+11-04-2025,15.5,Expense,Uber to office
+12-04-2025,99.99,Expense,New headphones
+12-04-2025,45.0,Expense,Electricity bill
+13-04-2025,8.75,Expense,Groceries - fruits
+13-04-2025,12.0,Expense,Netflix subscription
+13-04-2025,3.5,Expense,Bus fare
+14-04-2025,150.0,Income,Freelance project
+14-04-2025,60.0,Expense,Dinner with friends
+15-04-2025,22.0,Expense,Books
+15-04-2025,5.0,Expense,Taxi short ride
+15-04-2025,18.0,Expense,Internet bill
